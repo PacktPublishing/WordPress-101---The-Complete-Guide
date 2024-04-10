@@ -1,4 +1,4 @@
 
 
 
-# WordPress-for-Beginners-The-Complete-2020-WordPress-Guide
+# WordPress 101 - The Complete Guide, by Packt Publishing
